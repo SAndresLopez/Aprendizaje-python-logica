@@ -1,25 +1,32 @@
-# ⚽ App_futbol - Plataforma de Gestión Deportiva
+# 🐍 Aprendizaje y Lógica con Python
 
-Una aplicación web robusta construida con **Django** y **MySQL** diseñada para digitalizar la gestión de equipos de fútbol, estadísticas de jugadores y comunicación interna.
+Este repositorio es mi bitácora personal de estudio, donde documento mi progreso en el dominio de Python, desde los fundamentos de lógica hasta conceptos avanzados y desarrollo de interfaces gráficas.
 
-## 🚀 Características Principales
-* **Ranking "Top Legends":** Algoritmo personalizado para calcular y mostrar a los mejores jugadores.
-* **Chat Privado por Equipos:** Sistema de mensajería seguro restringido a miembros para evitar toxicidad.
-* **Estética Cyberpunk/Neon:** Interfaz moderna con efectos de brillo y paleta azul/magenta.
-* **Gestión Integral:** Registro de partidos, resultados y perfiles de jugadores.
+## 📁 Contenido del Repositorio
 
-## 🛠️ Stack Tecnológico
-* **Backend:** Python 3.10+, Django 4.x
-* **Base de Datos:** MySQL
-* **Frontend:** HTML5, CSS3, Bootstrap
+El código está organizado por áreas temáticas para facilitar la consulta de cada concepto:
 
-## 📂 Contenido del Repo
-* **/App_futbol:** Proyecto principal de gestión deportiva.
-* **/biblioteca_fastapi:** API REST con FastAPI y SQLAlchemy.
-* **/ejercicios_logica:** Retos y algoritmos resueltos.
+### 1. 🧠 Fundamentos y Lógica
+Ejercicios dedicados a fortalecer la resolución de problemas y el pensamiento algorítmico.
 
-## 📦 Instalación rápida
-1. `git clone https://github.com/SAndresLopez/Aprendizaje-python-logica.git`
-2. `pip install -r requirements.txt`
-3. `python manage.py migrate`
-4. `python manage.py runserver`
+### 2. 🚀 Python Avanzado
+Uso de herramientas potentes del lenguaje para escribir código más eficiente y limpio:
+* **Decoradores:** Envoltorios para extender funcionalidades.
+* **Gestión de Errores:** Manejo profesional de excepciones.
+* **Generadores:** Optimización de memoria en iteraciones.
+
+### 3. 🏗️ Programación Orientada a Objetos (POO)
+Implementación de clases, herencia y abstracción para construir sistemas escalables.
+
+### 4. 🖼️ Interfaces Gráficas con Tkinter
+Creación de aplicaciones de escritorio, cubriendo:
+* Manejo de `grid` y `widgets` (botones, cajas de texto, etiquetas).
+* Gestión de ventanas y flujo de navegación.
+* Creación de aplicaciones de login.
+
+## 🛠️ Tecnologías Utilizadas
+* **Lenguaje:** Python 3.x
+* **Librerías:** Tkinter (GUI)
+
+---
+*Este repositorio se mantiene en constante actualización a medida que exploro nuevas librerías y paradigmas.*
